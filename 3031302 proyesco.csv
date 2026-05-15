@@ -1,0 +1,233 @@
+LIBRO MAYOR CONTABLE ;;;;;;;;
+;Filtros;Mostrar cuenta sistema anterior:;;N;Fecha base para el saldo inicial:;;19/10/2022;
+;;Fecha inicio:;01/01/2025;;Normas Contables :;IFRS;;
+;;Fecha fin:;31/12/2025;;Código de cuenta:;3030102;;
+;;Empresa:;PROYESCO CHILE SPA;;;;;
+Cuenta:  3030102  PROVEEDORES EN USD;;;;;;;;
+Moneda de la Cta: Dólares Americanos;;;;;;;;
+Comprobante;Fec. Doc.;Voucher;;Titular;T.Doc/Nro;Debe;Haber;Acumulado
+;;;;;Saldo Inicial al 01/01/2025;;;0.00
+aape/2694;01-01-25;;;PROYESCO SA;Asiento Diario General/653;;22,500.00;-22,500.00
+Glosa : Asiento de Apertura de Ejercicio;;;;;;;;
+;;;;;;;;
+aape/2694;01-01-25;;;PROYESCO SA;Asiento Diario General/585;;489,317.00;-511,817.00
+Glosa : Asiento de Apertura de Ejercicio;;;;;;;;
+;;;;;;;;
+adig/674;14-01-25;2,201;;DEEL INC;;;20,152.00;-531,969.00
+Glosa : INVOICE 5-2025-9 /20.152  DOLARES;;;;;;;;
+;;;;;;;;
+plib/72;15-01-25;2,202;;DEEL INC;Asiento Diario General/674;20,152.00;;-511,817.00
+Glosa : Deel Inc.;;;;;;;;
+;;;;;;;;
+adig/676;28-01-25;2,204;;DEEL INC;;;2,702.50;-514,519.50
+Glosa : INVOICE REC-2025-4 /2702.5 DOLARES;;;;;;;;
+;;;;;;;;
+adig/677;28-01-25;2,205;;DEEL INC;;;2,415.00;-516,934.50
+Glosa : INVOICE REC-2025-2 /2.415 DOLARES;;;;;;;;
+;;;;;;;;
+adig/678;28-01-25;2,206;;DEEL INC;;;4,554.00;-521,488.50
+Glosa : INVOICE REC-2025-3 /4.554 DOLARES;;;;;;;;
+;;;;;;;;
+plib/73;29-01-25;2,207;;DEEL INC;Asiento Diario General/677;2,415.00;;-519,073.50
+Glosa : Deel Inc.;;;;;;;;
+;;;;;;;;
+plib/74;29-01-25;2,208;;DEEL INC;Asiento Diario General/678;4,554.00;;-514,519.50
+Glosa : Deel Inc.;;;;;;;;
+;;;;;;;;
+plib/75;29-01-25;2,209;;DEEL INC;Asiento Diario General/676;2,702.50;;-511,817.00
+Glosa : Deel Inc.;;;;;;;;
+;;;;;;;;
+adig/723;31-01-25;2,315;;PROYESCO SA;;;22,500.00;-534,317.00
+Glosa : INVOICE ET233;;;;;;;;
+;;;;;;;;
+adig/692;06-02-25;2,238;;DEEL INC;;;2,752.00;-537,069.00
+Glosa : INVOICE REC-2025-5/2.752 DOLARES;;;;;;;;
+;;;;;;;;
+plib/77;06-02-25;2,239;;DEEL INC;Asiento Diario General/692;2,752.00;;-534,317.00
+Glosa : Deel Inc.;;;;;;;;
+;;;;;;;;
+adig/711;28-02-25;2,303;;DEEL INC;;12,070.50;;-522,246.50
+Glosa : Compra/venta Divisas Sucursal;;;;;;;;
+;;;;;;;;
+adig/724;28-02-25;2,316;;PROYESCO SA;;;22,500.00;-544,746.50
+Glosa : INVOICE ET234;;;;;;;;
+;;;;;;;;
+adig/727;28-02-25;2,319;;DEEL INC;;;12,070.50;-556,817.00
+Glosa : INVOICE REC-2025-6  / 12070.5 DOLARES HONORTARIOS EXTRANJEROS;;;;;;;;
+;;;;;;;;
+adig/712;25-03-25;2,304;;PROYESCO SA;;22,500.00;;-534,317.00
+Glosa : Remesa Transf Extranjero Web;;;;;;;;
+;;;;;;;;
+adig/712;25-03-25;2,304;;PROYESCO SA;;22,500.00;;-511,817.00
+Glosa : Remesa Transf Extranjero Web;;;;;;;;
+;;;;;;;;
+adig/713;26-03-25;2,305;;PROYESCO SA;;22,500.00;;-489,317.00
+Glosa : Remesa Transf Extranjero Web;;;;;;;;
+;;;;;;;;
+adig/714;31-03-25;2,306;;DEEL INC;;13,001.84;;-476,315.16
+Glosa : Compra/venta Divisas Sucursal PAGO DEELL;;;;;;;;
+;;;;;;;;
+adig/725;31-03-25;2,317;;PROYESCO SA;;;22,500.00;-498,815.16
+Glosa : SERVICIOS MARZO 235;;;;;;;;
+;;;;;;;;
+adig/726;31-03-25;2,318;;DEEL INC;;;13,001.84;-511,817.00
+Glosa : INVOICE S-2025-68  / 13001.84 DOLARES HONORTARIOS EXTRANJEROS;;;;;;;;
+;;;;;;;;
+adig/739;11-04-25;2,389;;DEEL INC;;;1,103.00;-512,920.00
+Glosa : INVOICE REC-2025-8 /1,103.00  DOLARES;;;;;;;;
+;;;;;;;;
+adig/746;11-04-25;2,397;;DEEL INC;;1,103.00;;-511,817.00
+Glosa : Compra/venta Divisas Sucursal PAGO DEELL;;;;;;;;
+;;;;;;;;
+adig/741;21-04-25;2,391;;PROYESCO SA;;;120,000.00;-631,817.00
+Glosa : Servicios prestados meses enero/febrero/marzo/abril 2025 segun propuesta co-998-0;;;;;;;;
+;;;;;;;;
+adig/747;21-04-25;2,398;;PROYESCO SA;;120,000.00;;-511,817.00
+Glosa : Compra/venta Divisas Sucursal proyesco;;;;;;;;
+;;;;;;;;
+adig/740;29-04-25;2,390;;DEEL INC;;;12,743.00;-524,560.00
+Glosa : INVOICE REC-2025-9 /12.743,00 DOLARES;;;;;;;;
+;;;;;;;;
+adig/748;29-04-25;2,399;;DEEL INC;;12,743.00;;-511,817.00
+Glosa : Compra/venta Divisas Sucursal PAGO DEELL;;;;;;;;
+;;;;;;;;
+adig/742;30-04-25;2,392;;PROYESCO SA;;;22,500.00;-534,317.00
+Glosa : SERVICIOS ABRIL 236;;;;;;;;
+;;;;;;;;
+adig/758;08-05-25;2,429;;PROYESCO SA;;;30,000.00;-564,317.00
+Glosa : SERVICIOS PRESTADOS MESES DE MAYO 2025 SEGUN PROPUESTA CO-998-0;;;;;;;;
+;;;;;;;;
+adig/759;09-05-25;2,430;;PROYESCO SA;;30,000.00;;-534,317.00
+Glosa : Remesa transf extranjero WEB;;;;;;;;
+;;;;;;;;
+adig/756;29-05-25;2,427;;DEEL INC;;;8,772.40;-543,089.40
+Glosa : INVOICE REC-2025-104 /8.772,40 DOLARES;;;;;;;;
+;;;;;;;;
+adig/757;30-05-25;2,428;;DEEL INC;;8,772.40;;-534,317.00
+Glosa : Compra/venta Divisas Sucursal PAGO DEELL;;;;;;;;
+;;;;;;;;
+adig/774;05-06-25;2,500;;PROYESCO SA;;;30,000.00;-564,317.00
+Glosa : SERVICIOS prestados meses de junio 2025;;;;;;;;
+;;;;;;;;
+adig/772;09-06-25;2,498;;DEEL INC;;;3,652.00;-567,969.00
+Glosa : INVOICE REC-2025-115 3.652 DOLARES;;;;;;;;
+;;;;;;;;
+adig/775;09-06-25;2,501;;DEEL INC;;3,652.00;;-564,317.00
+Glosa : Compra/venta Divisas Sucursal PAGO DEELL;;;;;;;;
+;;;;;;;;
+adig/777;09-06-25;2,503;;PROYESCO SA;;30,000.00;;-534,317.00
+Glosa : Remesa transf extranjero WEB;;;;;;;;
+;;;;;;;;
+adig/773;30-06-25;2,499;;DEEL INC;;;26,030.87;-560,347.87
+Glosa : INVOICE REC-2025-139  26,030. 87  DOLARES;;;;;;;;
+;;;;;;;;
+adig/776;30-06-25;2,502;;DEEL INC;;26,030.87;;-534,317.00
+Glosa : Compra/venta Divisas Sucursal PAGO DEELL;;;;;;;;
+;;;;;;;;
+adig/790;08-07-25;2,540;;PROYESCO SA;;;30,000.00;-564,317.00
+Glosa : Número: 00006-00000004;;;;;;;;
+;;;;;;;;
+adig/791;14-07-25;2,541;;PROYESCO SA;;30,000.00;;-534,317.00
+Glosa : Número: 00006-00000004;;;;;;;;
+;;;;;;;;
+adig/795;25-07-25;2,545;;PROYESCO SA;;22,500.00;;-511,817.00
+Glosa : Factura 235-236;;;;;;;;
+;;;;;;;;
+adig/795;25-07-25;2,545;;PROYESCO SA;;22,500.00;;-489,317.00
+Glosa : Factura 235-236;;;;;;;;
+;;;;;;;;
+adig/789;30-07-25;2,539;;DEEL INC;;;22,331.26;-511,648.26
+Glosa : INVOICE S-2025-156  22.331,26  DOLARES;;;;;;;;
+;;;;;;;;
+adig/792;31-07-25;2,542;;DEEL INC;;22,331.26;;-489,317.00
+Glosa : S-2025-156;;;;;;;;
+;;;;;;;;
+adig/808;04-08-25;2,577;;PROYESCO SA;;;30,000.00;-519,317.00
+Glosa : Número: 00006-00000005;;;;;;;;
+;;;;;;;;
+adig/812;05-08-25;2,583;;PROYESCO SA;;150,000.00;;-369,317.00
+Glosa : Remesa Transf Extranjero Web 229;;;;;;;;
+;;;;;;;;
+adig/813;05-08-25;2,584;;PROYESCO SA;;30,000.00;;-339,317.00
+Glosa : Factura 00006-0000005;;;;;;;;
+;;;;;;;;
+adig/807;29-08-25;2,576;;DEEL INC;;;8,821.00;-348,138.00
+Glosa : INVOICE S-2025-161- 8.821,00  DOLARES;;;;;;;;
+;;;;;;;;
+adig/809;29-08-25;2,578;;DEEL INC;;8,821.00;;-339,317.00
+Glosa : S-2025-161;;;;;;;;
+;;;;;;;;
+adig/817;02-09-25;2,606;;PROYESCO SA;;;30,000.00;-369,317.00
+Glosa : Número: 00006-00000006;;;;;;;;
+;;;;;;;;
+adig/826;08-09-25;2,615;;PROYESCO SA;;30,000.00;;-339,317.00
+Glosa : Factura 00006-0000006;;;;;;;;
+;;;;;;;;
+adig/818;10-09-25;2,607;;DEEL INC;;;1,476.16;-340,793.16
+Glosa : INVOICE S-2025-15- 1.476,16  DOLARES;;;;;;;;
+;;;;;;;;
+adig/822;17-09-25;2,611;;DEEL INC;;1,476.16;;-339,317.00
+Glosa : S-2025-15;;;;;;;;
+;;;;;;;;
+adig/819;19-09-25;2,608;;DEEL INC;;;1,054.00;-340,371.00
+Glosa : INVOICE S-2025-16- 1.054  DOLARES;;;;;;;;
+;;;;;;;;
+adig/820;22-09-25;2,609;;DEEL INC;;;1,005.00;-341,376.00
+Glosa : INVOICE S-2025-17- 1.005  DOLARES;;;;;;;;
+;;;;;;;;
+adig/823;22-09-25;2,612;;DEEL INC;;1,054.00;;-340,322.00
+Glosa : S-2025-16;;;;;;;;
+;;;;;;;;
+adig/824;23-09-25;2,613;;DEEL INC;;1,005.00;;-339,317.00
+Glosa : S-2025-17;;;;;;;;
+;;;;;;;;
+adig/821;29-09-25;2,610;;DEEL INC;;;9,635.50;-348,952.50
+Glosa : INVOICE S-2025-167- 9635.50 DOLARES;;;;;;;;
+;;;;;;;;
+adig/825;30-09-25;2,614;;DEEL INC;;9,635.50;;-339,317.00
+Glosa : S-2025-167;;;;;;;;
+;;;;;;;;
+adig/838;09-10-25;2,684;;DEEL INC;;;1,882.91;-341,199.91
+Glosa : INVOICE REC-2025-19;;;;;;;;
+;;;;;;;;
+adig/840;09-10-25;2,686;;DEEL INC;;1,882.91;;-339,317.00
+Glosa : REC-2025-19;;;;;;;;
+;;;;;;;;
+adig/839;30-10-25;2,685;;DEEL INC;;;26,833.29;-366,150.29
+Glosa : INVOICE REC-2025-20;;;;;;;;
+;;;;;;;;
+adig/841;30-10-25;2,687;;DEEL INC;;26,833.29;;-339,317.00
+Glosa : REC-2025-20;;;;;;;;
+;;;;;;;;
+adig/863;14-11-25;2,751;;PROYESCO SA;;40,000.00;;-299,317.00
+Glosa : Proyesco Uruguay FE 229;;;;;;;;
+;;;;;;;;
+adig/864;18-11-25;2,752;;PROYESCO SA;;40,000.00;;-259,317.00
+Glosa : Proyesco Uruguay FE 229;;;;;;;;
+;;;;;;;;
+adig/857;21-11-25;2,745;;DEEL INC;;;1,613.00;-260,930.00
+Glosa : INVOICE REC-2025-21;;;;;;;;
+;;;;;;;;
+adig/858;21-11-25;2,746;;DEEL INC;;1,613.00;;-259,317.00
+Glosa : REC-2025-21;;;;;;;;
+;;;;;;;;
+adig/859;27-11-25;2,747;;DEEL INC;;;10,407.00;-269,724.00
+Glosa : INVOICE S-2025-186;;;;;;;;
+;;;;;;;;
+adig/860;27-11-25;2,748;;DEEL INC;;10,407.00;;-259,317.00
+Glosa : S-2025-186;;;;;;;;
+;;;;;;;;
+adig/866;29-12-25;2,766;;DEEL INC;;;14,215.40;-273,532.40
+Glosa : REC-2025-23;;;;;;;;
+;;;;;;;;
+adig/870;30-12-25;2,773;;DEEL INC;;14,215.40;;-259,317.00
+Glosa : REC-2025-23;;;;;;;;
+;;;;;;;;
+adig/880;31-12-25;2,806;;PROYESCO SA;;;50,000.00;-309,317.00
+Glosa : SALDO FACTURA 229;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Totales:;;;;;;821,723.63;1,131,040.63;
+Saldo Final Al 31/12/2025: ;;;;;;;;-309,317.00
+ ;;;;;;;;
+MGMayorContableOF;;;;;;;;
